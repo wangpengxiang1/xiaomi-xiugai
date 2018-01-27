@@ -1,0 +1,11 @@
+*{
+	margin: 0; /* body-8px */
+	text-decoration: none;
+	padding: 0;/* ul */
+	list-style: none;
+}
+/* 清除img默认border大小 */
+.img{
+	border: 0;
+	display: block;
+}
